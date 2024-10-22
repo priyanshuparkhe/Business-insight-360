@@ -1,6 +1,8 @@
 # Business-insight-360
 ## Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+## Link to the Dashboard
+live [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDgxODkxOGQtZWExYS00MmIwLTlmNmEtNzBiYzNlNWEzN2Q3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Tech stacks
 + SQL
 + PowerBi Desktop
@@ -132,10 +134,20 @@ Fact table : It will have the data about the transactions
 + Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 + Poor data modeling affects the over all performance of the report.
 + In this project, we have followed Snowfall data modeling method.
-
-![image](./Resources/Data Model.png)
 ## Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
+All the views button will be available. User will land on specific view page by clicking the button
 
++ Info
++ Finance View
++ Sales View
++ Marketing View
++ Supply chain View
++ Executive View
++ Products
++ Support
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
 
 
